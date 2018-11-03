@@ -1,2 +1,2 @@
 # BKYDogs
-Bkydogs repository deploy to tomcat using windows batch command
+Bkydogs repository deploy to tomcat webapps folder
