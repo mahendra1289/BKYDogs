@@ -1,2 +1,2 @@
 # BKYDogs
-Bkydogs repository deploy to tomcat webapps folder
+Bkydogs repository deploy .jar file to tomcat webapps folder
